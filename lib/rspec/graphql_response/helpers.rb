@@ -43,6 +43,7 @@ end
 require_relative "helpers/graphql_context"
 require_relative "helpers/graphql_operation"
 require_relative "helpers/graphql_variables"
+require_relative "helpers/with_schema"
 
 # spec level helpers
 require_relative "helpers/execute_graphql"
